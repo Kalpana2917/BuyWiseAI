@@ -1,5 +1,9 @@
 🛍️ BuyWise AI
 
+## 🌐 Live Demo
+
+Try BuyWise AI here: https://buywiseai-gmkhqexig7sgzd4vyak4y8.streamlit.app/
+
 One Search. Every Shopping Option.
 
 BuyWise AI is a smart shopping comparison application developed using Python and Streamlit. It helps users compare online products with local shop listings, track prices, manage wishlists, and get AI-powered shopping suggestions.
