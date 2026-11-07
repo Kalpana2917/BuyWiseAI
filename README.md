@@ -126,7 +126,6 @@ BuyWise AI is currently a working prototype.
 Kalpana
 
 - GitHub: "Kalpana2917" (https://github.com/Kalpana2917)
-- LinkedIn: "Kalpana Singhmar" (https://www.linkedin.com/in/kalpana-singhmar/)
 
 ---
 
